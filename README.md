@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B300&center=true&width=435&lines=Hello+There)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=10B300FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+esquilo+png.;+Atualmente+sou+estudande+do+IFPR;)](https://git.io/typing-svg)
+
 
 
 ```
