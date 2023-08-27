@@ -11,6 +11,9 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-purple?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java)&nbsp;
 
 ### Linguagens que tenho conhecimento:
 >![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)&nbsp;
+![GML](https://img.shields.io/badge/GML-green?style=for-the-badge&logo=game%20maker%20lenguage)&nbsp;
