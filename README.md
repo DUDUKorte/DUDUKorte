@@ -10,9 +10,9 @@
 
 #
 
-![](https://github-readme-stats.vercel.app/api?username=DUDUKorte&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DUDUKorte&theme=blueberry&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DUDUKorte&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DUDUKorte&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=DUDUKorte&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DUDUKorte&theme=blueberry&hide_border=true)</br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DUDUKorte&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
